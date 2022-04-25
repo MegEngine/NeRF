@@ -1,0 +1,8 @@
+imageio
+imageio-ffmpeg
+torch>=1.4
+loguru
+configargparse
+tqdm
+opencv-python
+megengine
