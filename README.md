@@ -138,6 +138,11 @@ Kudos to the authors for their amazing results:
     primaryClass={cs.CV}
 }
 ```
+## Acknowledgements
+Some code in this repo is based on the following repo:
+* https://github.com/bmild/nerf MIT License
+* https://github.com/yenchenlin/nerf-pytorch MIT License
+
 
 ## Known issue
 * Some operators is not supported well in MegEngine, I work around this issue by using operator writing in Python, this might cause NeRF-megengine runs slower.
