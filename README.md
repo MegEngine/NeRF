@@ -7,7 +7,7 @@ This is an implementation of [NeRF](https://arxiv.org/abs/2003.08934) for [MegEn
 ![](https://user-images.githubusercontent.com/7057863/78472232-cf374a00-7769-11ea-8871-0bc710951839.gif)
 ![](https://user-images.githubusercontent.com/7057863/78472235-d1010d80-7769-11ea-9be9-51365180e063.gif)
 
-This project is a faithful MegEnengine implementation of NeRF. The code is based on authors' Tensorflow implementation [here](https://github.com/bmild/nerf) and Pytorch implemention [here](https://github.com/yenchenlin/nerf-pytorch) by [Yen-Chen Lin](https://github.com/yenchenlin).
+This project is a faithful MegEngine implementation of NeRF. The code is based on authors' Tensorflow implementation [here](https://github.com/bmild/nerf) and Pytorch implemention [here](https://github.com/yenchenlin/nerf-pytorch) by [Yen-Chen Lin](https://github.com/yenchenlin).
 
 If you meet any problems when using this repo, please feel free to contact [FateScript](https://github.com/FateScript) @ [Megvii](https://megvii.com/).
 
